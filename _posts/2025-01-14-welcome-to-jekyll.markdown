@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ciao Patata!"
 date:   2025-01-14 16:01:44 +0100
 categories: jekyll update
 ---
