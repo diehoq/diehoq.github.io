@@ -6,4 +6,4 @@ permalink: /ideas/
 
 # Ideas
 
-This website is unde construction!
+This website is under construction!
