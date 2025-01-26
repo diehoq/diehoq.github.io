@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Diego
 middle_name:
 last_name: Polimeni
-contact_note: >
-  Reach out to me by email at diego.polimeni@epfl.ch
+contact_note:
 description:
 footer_text:
 keywords: # add your own keywords or leave empty

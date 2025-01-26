@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Boni l'ova ca sasizza
 
 profile:
   align: right
