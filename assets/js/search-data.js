@@ -382,8 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-the-preprint-of-my-first-paper-is-out-on-arxiv-check-it-out",
-          title: 'The preprint of my first paper is out on arXiv, check it out....',
+    },{id: "news-i-ll-be-at-mit-iquhack-2026-as-a-mentor-for-the-alice-amp-amp-bob-challenge-get-in-touch-if-you-ll-be-there",
+          title: 'I’ll be at MIT IQuHack 2026 as a mentor for the Alice&amp;amp;amp;Bob challenge!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -435,7 +435,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%69%65%67%6F.%70%6F%6C%69%6D%65%6E%69@%65%70%66%6C.%63%68", "_blank");
+          window.open("mailto:%64%69%65%67%6F.%70%6F%6C%69%6D%65%6E%69.%77%6F%72%6B@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
