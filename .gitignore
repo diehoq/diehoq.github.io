@@ -11,3 +11,9 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-17 15:59:00-0400
+date: 2026-01-26 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-The preprint of my first paper is out on arXiv, check it out.
+I'll be at MIT IQuHack 2026 as a mentor for the Alice&Bob challenge! Get in touch if you'll be there!
