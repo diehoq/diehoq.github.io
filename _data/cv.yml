@@ -2,96 +2,108 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: Diego Polimeni
+    - name: Location
+      value: Berlin, Germany
+    - name: Email
+      value: diego.polimeni.work@gmail.com
+    - name: Phone
+      value: +39 3337184644
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher
+      institution: RheinMain University of Applied Sciences
+      year: Nov 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Fault-tolerant compilation and hardware integration for the HORIZON EUROPE SecQDevOps project.
+    - title: Student Research Assistant
+      institution: Fraunhofer FOKUS
+      year: Jan 2025 - Oct 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed and maintained the <a href="https://qrisp.eu/">Qrisp</a> repository; added features and modules.
+        - Devised novel compilation strategies for algorithmic primitives.
+    - title: Quantum Computing Frameworks and Advocacy Intern
+      institution: Alice & Bob
+      year: Feb 2024 - Aug 2024
       description:
+        - Benchmarked quantum programming languages to select internal and external stacks.
+        - Explored the quantum computing stack with focus on transpilation, compilation, and simulation.
+    - title: Teaching Assistant
+      institution: EPFL
+      year: 2020 - 2025
+      description:
+        - Advanced Analysis I and II; Advanced Physics I and II; Advanced Linear Algebra I and II; Computer Science and Programming (C++); Functional Analysis for Physicists.
+    - title: Student Delegate, QSE Section
+      institution: EPFL
+      year: 2022 - 2024
+      description:
+        - Served as student representative on teaching committees to improve the QSE master program.
+    - title: Private Teacher
+      institution: EPFL community
+      year: 2021 - Present
+      description:
+        - Provided private lessons across multiple subjects and levels.
+    - title: Physics Mentoring Program Mentor
+      institution: EPFL
+      year: Winter 2021
+      description:
+        - Mentored first-year physics students.
+    - title: Communications and Graphic Design Coordinator
+      institution: Center for Quantum Science and Engineering
+      year: 2023 - 2024
+      description:
+        - Organized quantum science events and produced visual materials.
+    - title: Graphic Design Manager
+      institution: Forum EPFL
+      year: 2022 - 2023
+      description:
+        - Led visual projects and refreshed the association brand for a major recruitment fair.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master Thesis, Dahlem Center for Complex Quantum Systems
+      institution: Freie Universität Berlin
+      year: Nov 2024 - Jun 2025
+      description:
+        - Supervisor: Prof. Jens Eisert.
+        - Towards a quantum refrigerator protocol: rigorous end-to-end fault tolerance with minimal assumptions.
+        - Berlin, Germany.
+    - title: Master in Quantum Science and Engineering
+      institution: École Polytechnique Fédérale de Lausanne (EPFL)
+      year: 2022 - 2025
+    - title: Bachelor in Physics
+      institution: École Polytechnique Fédérale de Lausanne (EPFL)
+      year: 2018 - 2022
+    - title: Maturità scientifica
+      institution: Liceo Scientifico E. Fermi
+      year: 2017 - 2018
+      description:
+        - Score: 100/100.
+    - title: Maturità classica
+      institution: Liceo Classico L. Sciascia
+      year: 2012 - 2017
+      description:
+        - Score: 100/100 cum laude.
 
-- title: Honors and Awards
-  type: time_table
+- title: Languages
+  type: map
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Italian
+      value: Native
+    - name: English
+      value: Fluent; professionally proficient
+    - name: French
+      value: Fluent; professionally proficient
+    - name: Latin
+      value: Interpreting and translation skills
+    - name: Ancient Greek
+      value: Interpreting and translation skills
+    - name: Spanish
+      value: Intermediate
+    - name: German
+      value: Basic
+    - name: Esperanto
+      value: Basic
