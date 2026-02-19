@@ -161,24 +161,13 @@
       "name": "Quantum Computing",
       "level": "",
       "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Fault-tolerant compilation",
-        "Quantum error correction",
-        "Transpilation",
-        "Simulation",
-        "Qrisp"
-      ]
+      "keywords": ["Fault-tolerant compilation", "Quantum error correction", "Transpilation", "Simulation", "Qrisp"]
     },
     {
       "name": "Programming",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C++",
-        "Qiskit",
-        "Qrisp"
-      ]
+      "keywords": ["Python", "C++", "Qiskit", "Qrisp"]
     }
   ],
   "languages": [
@@ -227,11 +216,7 @@
     {
       "name": "Quantum Information",
       "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Fault-tolerant quantum computing",
-        "Quantum compilation",
-        "Quantum error correction"
-      ]
+      "keywords": ["Fault-tolerant quantum computing", "Quantum compilation", "Quantum error correction"]
     }
   ]
 }
