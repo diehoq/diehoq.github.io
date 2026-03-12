@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ll-be-at-the-epfl-quantum-hackathon-2026-as-a-mentor-for-the-alice-amp-amp-bob-challenge-get-in-touch-if-you-ll-be-there",
           title: 'I’ll be at the EPFL Quantum Hackathon 2026 as a mentor for the...',
           description: "",
+          section: "News",},{id: "news-i-have-been-elected-as-a-contributor-and-committer-to-the-eclipse-foundation-s-qrisp-project-qrisp-eu",
+          title: 'I have been elected as a Contributor and Committer to the Eclipse Foundation’s...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
