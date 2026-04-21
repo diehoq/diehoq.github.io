@@ -16,12 +16,12 @@
   },
   "work": [
     {
-      "name": "Rheinmain University of Applied Sciences",
+      "name": "RheinMain University of Applied Sciences",
       "position": "Researcher",
       "url": "",
       "startDate": "2025-11-01",
       "endDate": "",
-      "summary": "Conducting research on Fault-tolerant compilation and hardware integration in the context of the HORIZON EUROPE SecQDevOps project.",
+      "summary": "Conducting research on fault-tolerant compilation and hardware integration in the context of the HORIZON EUROPE SecQDevOps project.",
       "highlights": []
     },
     {
@@ -39,7 +39,7 @@
       "url": "https://qrisp.eu/",
       "startDate": "2025-01-01",
       "endDate": "2025-10-31",
-      "summary": "Developing and maintaining the Qrisp repository, https://qrisp.eu/, adding features and modules. Devising novel compilation strategies for algorithmic primitives.",
+      "summary": "Developed and maintained the Qrisp repository, adding features and modules. Devised novel compilation strategies for algorithmic primitives.",
       "highlights": []
     },
     {
@@ -48,7 +48,7 @@
       "url": "",
       "startDate": "2024-02-01",
       "endDate": "2024-08-31",
-      "summary": "Worked on bench-marking a broad list of quantum programming languages, in order to choose the best fit to use internally and externally to the company. Exploring the quantum computing stack, with particular attention to transpilation, compilation and simulation.",
+      "summary": "Benchmarked a broad list of quantum programming languages to evaluate internal and external adoption. Explored the quantum computing stack with emphasis on transpilation, compilation, and simulation.",
       "highlights": []
     },
     {
@@ -66,7 +66,7 @@
       "url": "",
       "startDate": "2022-01-01",
       "endDate": "2024-12-31",
-      "summary": "Covered the position of student representative and took part to teaching commitees, contributing to ameliorate the QSE master program.",
+      "summary": "Served as student representative on teaching committees and contributed to improving the Quantum Science and Engineering master's program.",
       "highlights": []
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://www.epfl.ch",
       "startDate": "2021-01-01",
       "endDate": "",
-      "summary": "Given private lessons to numerous students in different branches and years.",
+      "summary": "Provided private lessons to students across different levels and disciplines.",
       "highlights": []
     },
     {
@@ -88,12 +88,12 @@
       "highlights": []
     },
     {
-      "name": "Center for Quantum Science and Engeneering",
+      "name": "Center for Quantum Science and Engineering",
       "position": "Communications and graphic design coordinator",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "2024-12-31",
-      "summary": "Collaborated in the organization of conferences and events related to Quantum Science, through the creation of visual advertising and mementos.",
+      "summary": "Helped organize quantum science conferences and events through visual communication materials and mementos.",
       "highlights": []
     },
     {
@@ -127,14 +127,17 @@
       "startDate": "2024-11-01",
       "endDate": "2025-06-30",
       "score": "",
-      "courses": ["Under the supervision of prof. Jens Eisert", "Title:Towards a quantum refrigerator protocol: rigorous end-to-end fault tolerance with minimal assumptions"]
+      "courses": [
+        "Under the supervision of Prof. Jens Eisert",
+        "Title: Towards a quantum refrigerator protocol: rigorous end-to-end fault tolerance with minimal assumptions"
+      ]
     },
     {
       "institution": "EPFL, École Polytechnique Fédérale de Lausanne",
       "location": "Lausanne, Switzerland",
       "url": "https://www.epfl.ch/",
-      "area": "Quantum Science and Engeneering Faculty.",
-      "studyType": "Master degree in Quantum Science and Engeneering",
+      "area": "Quantum Science and Engineering Faculty.",
+      "studyType": "Master degree in Quantum Science and Engineering",
       "startDate": "2022-01-01",
       "endDate": "2025-12-31",
       "score": "",
@@ -176,25 +179,67 @@
   ],
   "publications": [
     {
-      "name": "\"End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp\"",
-      "publisher": "Poster, Quantum Computing Theory in Practice, 23-25 April 2025, D. Polimeni, R. Seidel",
+      "name": "Qalypso 2026 - Quantum Optimisation Techniques & Physics of Computation",
+      "publisher": "School, 31 August - 4 September 2026, La Valletta, Malta",
+      "releaseDate": "2026-08-31",
+      "url": "https://qalypso.squarespace.com/",
+      "summary": ""
+    },
+    {
+      "name": "Solving the Heat Equation with Quantum Linear System Algorithms",
+      "publisher": "Poster, QSim2026, 10 - 14 August 2026, University of Amsterdam, The Netherlands",
+      "releaseDate": "2026-08-10",
+      "url": "https://qsimconference.org/",
+      "summary": "T. Köppl, M. Petrič, D. Polimeni, R. Zander"
+    },
+    {
+      "name": "QSim Summer School",
+      "publisher": "School, 7 - 9 August 2026, University of Amsterdam, The Netherlands",
+      "releaseDate": "2026-08-07",
+      "url": "https://qsimconference.org/",
+      "summary": ""
+    },
+    {
+      "name": "Emergence of Coherence in Nonequilibrium and Structured Environments (eco-noise)",
+      "publisher": "Poster, 23 - 28 July 2026, Erice, Italy",
+      "releaseDate": "2026-07-23",
+      "url": "https://eco-noise2026.sciencesconf.org/?lang=en",
+      "summary": ""
+    },
+    {
+      "name": "QI CDT Spring School 2026",
+      "publisher": "School, 24 - 29 May 2026, Isle of Skye, Scotland",
+      "releaseDate": "2026-05-24",
+      "url": "https://www.quantuminformatics-cdt.ac.uk/spring-school/",
+      "summary": ""
+    },
+    {
+      "name": "Solving the Heat Equation with Quantum Linear System Algorithms",
+      "publisher": "Poster, Quantum Computing Theory in Practice (QCTiP), 20 - 22 April 2026, Oxford, UK",
+      "releaseDate": "2026-04-20",
+      "url": "https://qctipconf.github.io/",
+      "summary": "T. Köppl, M. Petrič, D. Polimeni, R. Zander"
+    },
+    {
+      "name": "End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp",
+      "publisher": "Poster, Quantum Computing Theory in Practice (QCTiP), 23 - 25 April 2025, Berlin, Germany",
       "releaseDate": "2025-04-23",
-      "url": "",
-      "summary": ""
+      "url": "https://qctip2025.com/",
+      "summary": "D. Polimeni, R. Seidel"
     },
     {
-      "name": "\"End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp\"",
-      "publisher": "Poster, 6th International Workshop on Quantum Compilation, 11-12 September 2024, D. Polimeni, R. Seidel",
-      "releaseDate": "2024-09-11",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "\"End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp\"",
-      "publisher": "Preprint, D. Polimeni, R. Seidel, arXiv:2501.10228, January 2025",
+      "name": "End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp",
+      "publisher": "Preprint, arXiv:2501.10228, January 2025",
       "releaseDate": "2025-01-01",
       "url": "https://arxiv.org/abs/2501.10228",
-      "summary": ""
+      "summary": "Diego Polimeni, Raphael Seidel"
+    },
+    {
+      "name": "End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp",
+      "publisher": "Poster, 6th International Workshop on Quantum Compilation (IWQC), 11 - 12 September 2024, Berlin, Germany",
+      "releaseDate": "2024-09-11",
+      "url": "https://quantum-compilers.github.io/iwqc2024/",
+      "summary": "D. Polimeni, R. Seidel"
     }
   ],
   "skills": [
@@ -202,13 +247,17 @@
       "name": "Programming",
       "level": "",
       "icon": "",
-      "keywords": ["Advanced Python and C++, with working knowledge of MATLAB; experience with simulation libraries for quantum systems such as QuTiP."]
+      "keywords": [
+        "Advanced Python and C++, with working knowledge of MATLAB; experience with simulation libraries for quantum systems such as QuTiP."
+      ]
     },
     {
       "name": "Quantum Software",
       "level": "",
       "icon": "",
-      "keywords": ["Advanced knowledge of Qiskit, Qrisp, Qualtran, Q#, and Classiq for quantum algorithm development and compilation workflows."]
+      "keywords": [
+        "Advanced knowledge of Qrisp, Qiskit, Qualtran, Q#, and Classiq; working knowledge of JAX and Jasp for traced hybrid quantum-classical programming in the Qrisp ecosystem."
+      ]
     },
     {
       "name": "Web Development",
@@ -238,7 +287,7 @@
       "name": "Audio Production",
       "level": "",
       "icon": "",
-      "keywords": ["Good knowledge of digital audio software (FL Studio)."]
+      "keywords": ["Good knowledge of digital audio software, especially FL Studio."]
     },
     {
       "name": "Productivity Tools",

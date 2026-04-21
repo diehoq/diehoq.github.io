@@ -10,11 +10,13 @@ nav_order: 3
 ## 2026
 
 - **[Qalypso 2026 – Quantum Optimisation Techniques & Physics of Computation](https://qalypso.squarespace.com/)**
+
   - **Date**: August 31 – September 4, 2026
   - **Location**: La Valletta, Malta
   - **Format**: School
 
 - **[QSim2026](https://qsimconference.org/)**
+
   - **Materials**: Poster <!-- add a link -->
   - **Title**: Solving the Heat Equation with Quantum Linear System Algorithms
   - **Authors**: T. Köppl, M. Petrič, D. Polimeni, R. Zander
@@ -23,17 +25,20 @@ nav_order: 3
   - **Format**: Poster
 
 - **[QSim Summer School 2026](https://qsimconference.org/)**
+
   - **Date**: August 7–9, 2026
   - **Location**: University of Amsterdam, The Netherlands
   - **Format**: School
 
 - **[Emergence of Coherence in Nonequilibrium and Structured Environments (eco-noise)](https://eco-noise2026.sciencesconf.org/?lang=en)**
+
   - **Materials**: Poster <!-- add a link -->
   - **Date**: July 23–28, 2026
   - **Location**: Erice, Italy
   - **Format**: Poster
 
 - **[QI CDT Spring School 2026](https://www.quantuminformatics-cdt.ac.uk/spring-school/)**
+
   - **Date**: May 24–29, 2026
   - **Location**: Isle of Skye, Scotland
   - **Format**: School
