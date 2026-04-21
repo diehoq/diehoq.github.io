@@ -17,76 +17,76 @@
       institution: RheinMain University of Applied Sciences
       year: Nov 2025 - Present
       description:
-        - Fault-tolerant compilation and hardware integration for the HORIZON EUROPE SecQDevOps project.
+        - Conducting research on fault-tolerant compilation and hardware integration for the HORIZON EUROPE SecQDevOps project.
     - title: Hackathon Mentor and Judge (Freelancer)
       institution: Alice & Bob
       year: Dec 2025 - Mar 2026
       description:
-        - Designed hackathon challenges, mentored participants, and judged winning projects at MIT iQuHACK 2026 (Boston) and EPFL QPFL 2026 (Lausanne).
+        - Designed hackathon challenges, mentored participants, and judged winning projects at MIT iQuHACK 2026 and EPFL QPFL 2026.
     - title: Student Research Assistant
       institution: Fraunhofer FOKUS
       year: Jan 2025 - Oct 2025
       description:
-        - Developed and maintained the <a href="https://qrisp.eu/">Qrisp</a> repository; added features and modules.
+        - Developed and maintained the <a href="https://qrisp.eu/">Qrisp</a> repository, adding features and modules.
         - Devised novel compilation strategies for algorithmic primitives.
     - title: Quantum Computing Frameworks and Advocacy Intern
       institution: Alice & Bob
       year: Feb 2024 - Aug 2024
       description:
-        - Benchmarked quantum programming languages to select internal and external stacks.
-        - Explored the quantum computing stack with focus on transpilation, compilation, and simulation.
+        - Benchmarked a broad set of quantum programming languages to evaluate internal and external adoption.
+        - Explored the quantum computing stack with emphasis on transpilation, compilation, and simulation.
     - title: Teaching Assistant
       institution: EPFL
       year: 2020 - 2025
       description:
-        - Advanced Analysis I and II; Advanced Physics I and II; Advanced Linear Algebra I and II; Computer Science and Programming (C++); Functional Analysis for Physicists.
+        - Advanced Analysis I and II, Advanced Physics I and II, Electromagnetism, Advanced Linear Algebra I and II, Computer Science and Programming (C++), and Functional Analysis for Physicists.
     - title: Student Delegate, QSE Section
       institution: EPFL
       year: 2022 - 2024
       description:
-        - Served as student representative on teaching committees to improve the QSE master program.
+        - Served as student representative on teaching committees and contributed to improving the Quantum Science and Engineering master's program.
     - title: Private Teacher
-      institution: EPFL community
+      institution: EPFL
       year: 2021 - Present
       description:
-        - Provided private lessons across multiple subjects and levels.
+        - Provided private lessons to students across different levels and disciplines.
     - title: Physics Mentoring Program Mentor
       institution: EPFL
       year: Winter 2021
       description:
-        - Mentored first-year physics students.
+        - Mentored a group of first-year physics students.
     - title: Communications and Graphic Design Coordinator
       institution: Center for Quantum Science and Engineering
       year: 2023 - 2024
       description:
-        - Organized quantum science events and produced visual materials.
+        - Helped organize quantum science conferences and events through visual communication materials and mementos.
     - title: Graphic Design Manager
       institution: Forum EPFL
       year: 2022 - 2023
       description:
-        - Led visual projects and refreshed the association brand for a major recruitment fair.
+        - Led visual projects and refreshed the association identity for Europe's largest recruitment fair.
 
 - title: Education
   type: time_table
   contents:
-    - title: Incoming PhD Student, Dahlem Center for Complex Quantum Systems
-      institution: Freie Universität Berlin
+    - title: Incoming PhD Student
+      institution: Dahlem Center for Complex Quantum Systems, Freie Universität Berlin
       year: Incoming
       description:
         - Group of Prof. Jens Eisert.
-        - Berlin, Germany.
-    - title: Master Thesis, Dahlem Center for Complex Quantum Systems
-      institution: Freie Universität Berlin
+    - title: Master Thesis
+      institution: Dahlem Center for Complex Quantum Systems, Freie Universität Berlin
       year: Nov 2024 - Jun 2025
       description:
         - Supervisor: Prof. Jens Eisert.
-        - Towards a quantum refrigerator protocol: rigorous end-to-end fault tolerance with minimal assumptions.
-        - Berlin, Germany.
-    - title: Master in Quantum Science and Engineering
+        - Title: Towards a quantum refrigerator protocol: rigorous end-to-end fault tolerance with minimal assumptions.
+    - title: Master Degree in Quantum Science and Engineering
       institution: École Polytechnique Fédérale de Lausanne (EPFL)
+      department: Quantum Science and Engineering Faculty
       year: 2022 - 2025
-    - title: Bachelor in Physics
+    - title: Bachelor Degree in Physics
       institution: École Polytechnique Fédérale de Lausanne (EPFL)
+      department: Basic Sciences Faculty
       year: 2018 - 2022
     - title: Maturità scientifica
       institution: Liceo Scientifico E. Fermi
@@ -118,3 +118,110 @@
       value: Basic
     - name: Esperanto
       value: Basic
+
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Advanced Python and C++, with working knowledge of MATLAB; experience with quantum-system simulation libraries such as QuTiP.
+    - name: Quantum Software
+      value: Advanced knowledge of Qrisp, Qiskit, Qualtran, Q#, and Classiq; working knowledge of JAX and Jasp for traced hybrid quantum-classical programming in the Qrisp ecosystem.
+    - name: Web Development
+      value: Working knowledge of HTML, CSS, and JavaScript for technical demos and lightweight interfaces.
+    - name: Version Control
+      value: Daily use of Git and GitHub for collaborative development, code review, and repository management.
+    - name: Scientific Communication
+      value: Strong proficiency with LaTeX for technical writing and Manim for mathematical and algorithmic visualizations.
+    - name: Digital Design
+      value: Adobe Illustrator, InDesign, Photoshop, Blender, and OpenGL.
+    - name: Audio Production
+      value: Good knowledge of digital audio software, especially FL Studio.
+    - name: Productivity Tools
+      value: Proficient with Microsoft Excel.
+
+- title: Conferences, Schools, and Publications
+  type: time_table
+  contents:
+    - title: Qalypso 2026 - Quantum Optimisation Techniques & Physics of Computation
+      year: Aug - Sep 2026
+      location: La Valletta, Malta
+      maindescription: School
+      description:
+        - Dates: 31 August - 4 September 2026.
+      linkitems:
+        - link: https://qalypso.squarespace.com/
+          linkname: event
+    - title: QSim2026
+      institution: University of Amsterdam
+      year: Aug 2026
+      location: Amsterdam, The Netherlands
+      maindescription: Poster
+      description:
+        - Dates: 10 - 14 August 2026.
+        - Solving the Heat Equation with Quantum Linear System Algorithms.
+        - Authors: T. Köppl, M. Petrič, D. Polimeni, and R. Zander.
+      linkitems:
+        - link: https://qsimconference.org/
+          linkname: event
+    - title: QSim Summer School
+      institution: University of Amsterdam
+      year: Aug 2026
+      location: Amsterdam, The Netherlands
+      maindescription: School
+      description:
+        - Dates: 7 - 9 August 2026.
+      linkitems:
+        - link: https://qsimconference.org/
+          linkname: event
+    - title: Emergence of Coherence in Nonequilibrium and Structured Environments (eco-noise)
+      year: Jul 2026
+      location: Erice, Italy
+      maindescription: Poster
+      description:
+        - Dates: 23 - 28 July 2026.
+      linkitems:
+        - link: https://eco-noise2026.sciencesconf.org/?lang=en
+          linkname: event
+    - title: QI CDT Spring School 2026
+      year: May 2026
+      location: Isle of Skye, Scotland
+      maindescription: School
+      description:
+        - Dates: 24 - 29 May 2026.
+      linkitems:
+        - link: https://www.quantuminformatics-cdt.ac.uk/spring-school/
+          linkname: event
+    - title: Quantum Computing Theory in Practice (QCTiP)
+      year: Apr 2026
+      location: Oxford, UK
+      maindescription: Poster
+      description:
+        - Dates: 20 - 22 April 2026.
+        - Solving the Heat Equation with Quantum Linear System Algorithms.
+        - Authors: T. Köppl, M. Petrič, D. Polimeni, and R. Zander.
+      linkitems:
+        - link: https://qctipconf.github.io/
+          linkname: event
+    - title: Quantum Computing Theory in Practice (QCTiP)
+      year: Apr 2025
+      maindescription: Poster
+      description:
+        - Dates: 23 - 25 April 2025.
+        - End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp.
+        - Authors: D. Polimeni and R. Seidel.
+    - title: 6th International Workshop on Quantum Compilation (IWQC)
+      year: Sep 2024
+      maindescription: Poster
+      description:
+        - Dates: 11 - 12 September 2024.
+        - End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp.
+        - Authors: D. Polimeni and R. Seidel.
+    - title: End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp
+      year: Jan 2025
+      maindescription: Preprint
+      description:
+        - Authors: Diego Polimeni and Raphael Seidel.
+        - arXiv:2501.10228.
+      linkitems:
+        - link: https://arxiv.org/abs/2501.10228
+          linkname: arXiv
