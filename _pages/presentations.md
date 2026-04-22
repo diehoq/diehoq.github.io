@@ -5,6 +5,22 @@ title: presentations
 description:
 nav: true
 nav_order: 3
+_styles: |
+  .post article > ul > li {
+    margin-bottom: 1rem;
+  }
+
+  .post article > ul > li:last-child {
+    margin-bottom: 0;
+  }
+
+  .post article > ul > li > p {
+    margin-bottom: 0.15rem;
+  }
+
+  .post article > ul > li > ul {
+    margin-top: 0;
+  }
 ---
 
 ## 2026
