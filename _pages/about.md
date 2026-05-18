@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Nothing fancy here. I'm a Sicilian guy, now living in Berlin, working as a researcher and trying to figure out this quantum information business.
+Nothing fancy here. I'm a Sicilian guy, now living in Berlin, doing my PhD and trying to figure out this quantum information business.
