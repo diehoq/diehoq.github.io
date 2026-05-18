@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-elected-as-a-contributor-and-committer-to-the-eclipse-foundation-s-qrisp-project-qrisp-eu",
           title: 'I have been elected as a Contributor and Committer to the Eclipse Foundation’s...',
           description: "",
+          section: "News",},{id: "news-today-is-the-first-day-of-my-phd-at-freie-universität-berlin-in-the-group-of-prof-jens-eisert",
+          title: 'Today is the first day of my PhD at Freie Universität Berlin in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
