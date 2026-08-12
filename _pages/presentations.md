@@ -40,12 +40,6 @@ _styles: |
   - **Location**: University of Amsterdam, The Netherlands
   - **Format**: Poster
 
-- **[QSim Summer School 2026](https://qsimconference.org/)**
-
-  - **Date**: August 7–9, 2026
-  - **Location**: University of Amsterdam, The Netherlands
-  - **Format**: School
-
 - **[Emergence of Coherence in Nonequilibrium and Structured Environments (eco-noise)](https://eco-noise2026.sciencesconf.org/?lang=en)**
 
   - **Materials**: Poster <!-- add a link -->

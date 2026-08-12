@@ -13,9 +13,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Quantum Software Developer (Qrisp team)
+      institution: IQM
+      year: Sep 2026 - Upcoming
+      description:
+        - Developing and maintaining the <a href="https://qrisp.eu/">Qrisp</a> repository, contributing to the design and implementation of quantum algorithms and compilation infrastructure.
+    - title: Researcher
+      institution: Freie Universität Berlin
+      year: May - Sep 2026
+      description:
+        - Conducting research on fault-tolerant quantum computing, focusing on fast surgery, code gluing, and threshold theorem prescriptions.
     - title: Researcher
       institution: RheinMain University of Applied Sciences
-      year: Nov 2025 - Present
+      year: Nov 2025 - Sep 2026
       description:
         - Conducting research on fault-tolerant compilation and hardware integration for the HORIZON EUROPE SecQDevOps project.
     - title: Hackathon Mentor and Judge (Freelancer)
@@ -123,9 +133,9 @@
   type: map
   contents:
     - name: Programming
-      value: Advanced Python and C++, with working knowledge of MATLAB; experience with quantum-system simulation libraries such as QuTiP.
+      value: Advanced Python and C++, with working knowledge of MATLAB; experience with simulation libraries for quantum systems such as QuTiP.
     - name: Quantum Software
-      value: Advanced knowledge of Qrisp, Qiskit, Qualtran, Q#, and Classiq; working knowledge of JAX and Jasp for traced hybrid quantum-classical programming in the Qrisp ecosystem.
+      value: Advanced knowledge of Qrisp, Qiskit, Qualtran, Q#, and Classiq for quantum algorithm development and compilation workflows; working knowledge of JAX and Jasp for traced hybrid quantum-classical programming in the Qrisp ecosystem.
     - name: Web Development
       value: Working knowledge of HTML, CSS, and JavaScript for technical demos and lightweight interfaces.
     - name: Version Control
@@ -160,16 +170,6 @@
         - Dates: 10 - 14 August 2026.
         - Solving the Heat Equation with Quantum Linear System Algorithms.
         - Authors: T. Köppl, M. Petrič, D. Polimeni, and R. Zander.
-      linkitems:
-        - link: https://qsimconference.org/
-          linkname: event
-    - title: QSim Summer School
-      institution: University of Amsterdam
-      year: Aug 2026
-      location: Amsterdam, The Netherlands
-      maindescription: School
-      description:
-        - Dates: 7 - 9 August 2026.
       linkitems:
         - link: https://qsimconference.org/
           linkname: event

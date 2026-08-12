@@ -16,11 +16,29 @@
   },
   "work": [
     {
+      "name": "IQM",
+      "position": "Quantum Software Developer (Qrisp team)",
+      "url": "https://qrisp.eu/",
+      "startDate": "2026-09-01",
+      "endDate": "Upcoming",
+      "summary": "Developing and maintaining the Qrisp repository, contributing to the design and implementation of quantum algorithms and compilation infrastructure.",
+      "highlights": []
+    },
+    {
+      "name": "Freie Universität Berlin",
+      "position": "Researcher",
+      "url": "https://www.fu-berlin.de/",
+      "startDate": "2026-05-01",
+      "endDate": "2026-09-30",
+      "summary": "Conducting research on fault-tolerant quantum computing, focusing on fast surgery, code gluing, and threshold theorem prescriptions.",
+      "highlights": []
+    },
+    {
       "name": "RheinMain University of Applied Sciences",
       "position": "Researcher",
       "url": "",
       "startDate": "2025-11-01",
-      "endDate": "",
+      "endDate": "2026-09-30",
       "summary": "Conducting research on fault-tolerant compilation and hardware integration in the context of the HORIZON EUROPE SecQDevOps project.",
       "highlights": []
     },
@@ -193,13 +211,6 @@
       "summary": "T. Köppl, M. Petrič, D. Polimeni, R. Zander"
     },
     {
-      "name": "QSim Summer School",
-      "publisher": "School, 7 - 9 August 2026, University of Amsterdam, The Netherlands",
-      "releaseDate": "2026-08-07",
-      "url": "https://qsimconference.org/",
-      "summary": ""
-    },
-    {
       "name": "Emergence of Coherence in Nonequilibrium and Structured Environments (eco-noise)",
       "publisher": "Poster, 23 - 28 July 2026, Erice, Italy",
       "releaseDate": "2026-07-23",
@@ -256,7 +267,7 @@
       "level": "",
       "icon": "",
       "keywords": [
-        "Advanced knowledge of Qrisp, Qiskit, Qualtran, Q#, and Classiq; working knowledge of JAX and Jasp for traced hybrid quantum-classical programming in the Qrisp ecosystem."
+        "Advanced knowledge of Qrisp, Qiskit, Qualtran, Q#, and Classiq for quantum algorithm development and compilation workflows; working knowledge of JAX and Jasp for traced hybrid quantum-classical programming in the Qrisp ecosystem."
       ]
     },
     {
